@@ -70,19 +70,19 @@ This view summarizes the conversion funnel, helping visualize how many users mov
 
 ## Power BI Dashboards
 
-###1) Traffic Overview
+### 1) Traffic Overview
 - KPI cards for total users, total events, and total purchases  
 - Device and country breakdowns  
 
-###2) Funnel & Conversion Analysis
+### 2) Funnel & Conversion Analysis
 - Funnel chart visualizing *View → Add to Cart → Purchase* stages  
 - Identifies user drop-off and conversion rate patterns  
 
-###3) Daily Traffic Trends
+### 3) Daily Traffic Trends
 - Line chart showing user and purchase activity over time  
 - Helps detect campaign, season, or weekday effects  
 
-###4) Product & Engagement Insights
+### 4) Product & Engagement Insights
 - Product performance matrix (views vs purchases)  
 - Histogram showing user engagement (avg events per user)  
 - Scatter chart linking engagement with frequency  
